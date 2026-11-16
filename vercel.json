@@ -1,0 +1,1 @@
+{"functions":{"api/agent.js":{"includeFiles":"circuits/**","maxDuration":60},"api/gatekeeper.js":{"includeFiles":"circuits/**","maxDuration":60},"api/steal.js":{"includeFiles":"circuits/**","maxDuration":60}}}
